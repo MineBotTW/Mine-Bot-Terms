@@ -6,7 +6,7 @@
 
 ## Code of Conduct
 
-1. All team members must comply with the [Terms of Service](./Terms of Service.md).
+1. All team members must comply with the [Terms of Service](./Terms%20of%20Service.md).
 2. Team members are not allowed to disclose (make it possible for others to directly copy or deliberately display specific data) any files related to Mine Bot (including item data, translation data, etc.).
 3. The lead developer has the right to take action against team members who violate the "Code of Conduct."
 
