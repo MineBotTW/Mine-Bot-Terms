@@ -1,4 +1,4 @@
-## Mine Team Policy
+# Mine Team Policy
 
 1. "Team member" in these terms refers to members who have joined Mine Team, regardless of whether they are interns or regular members.
 2. "Lead Developer" refers to Lmantw.
@@ -44,12 +44,12 @@ We want every team member to participate in some decisions regarding Mine Bot, s
 
 ### Fixed Compensation
 
-1. Translation (25 Phantom Stones / month).
-2. Planning (25 Phantom Stones / month).
+1. Translation (20 Phantom Stones / month).
+2. Planning (20 Phantom Stones / month).
 
 ### Special Compensation
 
-1. Translation (100 Phantom Stones for translating a new language).
+1. Translation (150 Phantom Stones for translating a new language).
 
 ## Inactive Members
 
