@@ -1,4 +1,4 @@
-## Mine Team 條款
+# Mine Team 條款
 1. 此條款的「團隊成員」為已加入 Mine Team 的成員(不分實習或正式)。
 2. 此條款的「主開發」為 永光(lmantw)。
 3. 當您加入 Mine Team 時，即表示您同意及遵守 Mine Bot 的 Mine Team 條款。
