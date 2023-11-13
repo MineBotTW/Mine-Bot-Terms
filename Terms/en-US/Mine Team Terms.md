@@ -1,7 +1,7 @@
 # Mine Team Terms
 
 1. "Team member" in these terms refers to members who have joined Mine Team, regardless of whether they are interns or regular members.
-2. "Lead Developer" refers to Lmantw.
+2. "Lead Developer" refers to LmanTW.
 3. By joining Mine Team, you agree to abide by the Mine Team Terms of Mine Bot.
 
 ## Code of Conduct
