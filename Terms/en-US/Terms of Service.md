@@ -7,7 +7,7 @@
 1. All players must comply with the [Terms of Service of Discord](https://discord.com/terms).
 2. Players must not use Mine Bot to spread any content related to discrimination, violence, pornography, fraud, or terrorism.
 3. Players must not use bugs, self-bots, or software that can achieve similar goals to disrupt game balance.
-4. Players must not attack Mine Bot's servers in any form (such as DDoS attacks or data theft).
+4. Players must not attack Mine Bot's server or network in any form (such as DDoS attacks or data theft).
 5. The Mine Team have the right to take action against players who violate the "Rules of Use."
 
 # Product Purchases
